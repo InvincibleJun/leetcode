@@ -1,0 +1,11 @@
+{
+  "scripts": {
+    "pup": "node pup/index.js",
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "dependencies": {
+    "puppeteer": "^1.19.0",
+    "request": "^2.88.0"
+  }
+}
